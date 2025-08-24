@@ -34,10 +34,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
 
 <div align="center">
-
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skyexfallen&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-###
