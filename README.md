@@ -20,11 +20,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/…/Blazor.png" height="30" alt="blazor logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" height="30" alt="blazor logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/…/Microsoft_SQL_Server_2025_icon.svg" height="30" alt="mssql logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Microsoft_SQL_Server_Logo.svg" height="30" alt="mssql logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/…/qt-logo-2015.svg" height="30" alt="qt logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" height="30" alt="qt logo" />
 </div>
 
 
