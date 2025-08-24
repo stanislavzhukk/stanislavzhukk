@@ -3,11 +3,6 @@
   <img src="https://streak-stats.demolab.com?user=skyexfallen&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://c.tenor.com/rWEAaYJDUI8AAAAC/tenor.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
