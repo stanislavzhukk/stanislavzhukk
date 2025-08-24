@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" height="30" alt="blazor logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Microsoft_SQL_Server_2025_icon.svg" height="30" alt="mssql logo" />
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="30" alt="mssql logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" height="30" alt="qt logo" />
 </div>
