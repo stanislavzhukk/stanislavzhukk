@@ -10,10 +10,23 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dotnet logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/…/Blazor.png" height="30" alt="blazor logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/…/Microsoft_SQL_Server_2025_icon.svg" height="30" alt="mssql logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/…/qt-logo-2015.svg" height="30" alt="qt logo" />
 </div>
+
 
 ###
 
